@@ -2,7 +2,7 @@
 ## Requirements
 
 * Tableau Server
-* Java SDK
+* Java SDK 8
   * Download: <http://www.oracle.com/technetwork/java/javase/downloads/index.html>
 * Apache Ant
   * It is not neccessary to run the "Optional" steps in the Apache Ant guide.
@@ -31,13 +31,13 @@
    For example, you might see the following URL:
 
    ```
-   /api/3.3/
+   /api/3.5/
    ```
 
-   If you want to use version 3.2 of the API, replace the URL with the following:
+   If you want to use version 3.4 of the API, replace the URL with the following:
 
    ```
-   /api/3.2/
+   /api/3.4/
    ```
 
 ## Running the sample
